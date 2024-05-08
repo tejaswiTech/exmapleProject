@@ -14,6 +14,7 @@ public class StringProblems {
 	
 	private void stringConcatNum()
 	{
+		//adding new change 2.0
 		String price="Rs.1200";	     
 	     System.out.println(price+2);
 	     
